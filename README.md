@@ -9,14 +9,14 @@ First, create an account on GitHub with all the account details that they ask fo
 Next, go to one of the links listed below which is related to where the issue is coming from. Rather it include our themes or add-ons.
 
 ## XenForo 1
-[XenForo 1 Add-ons](https://www.themehouse.com/xenforo/issues/addons)
+[XenForo 1 Add-ons](https://github.com/Audentio/xfaddon-issues/issues)
 
-[XenForo 1 Themes](https://www.themehouse.com/xenforo/issues/themes)
+[XenForo 1 Themes](https://github.com/Audentio/xftheme-issues/issues)
 
 ## XenForo 2
-[XenForo 2 Add-ons](github.com/audentio/xf2addon-issues)
+[XenForo 2 Add-ons](https://github.com/audentio/xf2addon-issues)
 
-[XenForo 2 Themes](github.com/audentio/xf2theme-issues)
+[XenForo 2 Themes](https://github.com/audentio/xf2theme-issues)
 
 After you have registered and went to our issue boards. You will see different tabs up above, these tabs include: Code, Issues, Pull Requests, Projects, Wiki, Pulse, and Graphs. You will want to click “Issues” as that will take you to where all issues can be posted
 
